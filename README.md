@@ -24,9 +24,9 @@ Ejecutar `php artisan db:seed --class=UsuariosSeeder`
 
 Ejecutar `php artisan serve`, el servidor correrá en http://localhost:8000
 
-```
-Endpoints
-```
+
+# Endpoints
+
 `POST` /users (Crea un usuario)
 
 `GET` /users (Obtiene la lista completa de usuarios)
